@@ -12,7 +12,7 @@ Automatically search for the latest jobs every day
 
 - 發送最新職缺連結至信箱 ✉️
    
-    Send the latest job vacancy link to your mailbox
+    Send the latest job vacancy link to your mail
 
 # Tech Stack
 
